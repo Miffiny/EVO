@@ -1,0 +1,143 @@
+Detailed results (OFAT)
+Mann-Whitney | Target: update_strategy | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 1.000000 | Result: Not Significant | MedIB: 862.43 | MedBSF: 864.75 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 833.29)
+Kruskal-Wallis | Target: beta | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 862.43)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 0.272462 | Result: Not Significant | Best Val: 0.05 (Med: 860.93)
+Kruskal-Wallis | Target: ants | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 0.002194 | Result: Significant | Best Val: 100 (Med: 859.22)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_Vinyl.bin | Coverage: 0.2 | p-value: 0.000039 | Result: Significant | Best Val: 10 (Med: 838.88)
+Mann-Whitney | Target: update_strategy | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.262753 | Result: Not Significant | MedIB: 2217.42 | MedBSF: 2250.09 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 2174.91)
+Kruskal-Wallis | Target: beta | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 7 (Med: 2216.69)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.002457 | Result: Significant | Best Val: 0.2 (Med: 2217.42)
+Kruskal-Wallis | Target: ants | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.000354 | Result: Significant | Best Val: 64 (Med: 2217.42)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.001671 | Result: Significant | Best Val: 10 (Med: 2178.74)
+Mann-Whitney | Target: update_strategy | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.081495 | Result: Not Significant | MedIB: 3907.96 | MedBSF: 3944.98 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 3793.33)
+Kruskal-Wallis | Target: beta | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 7 (Med: 3857.00)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.000052 | Result: Significant | Best Val: 0.1 (Med: 3846.26)
+Kruskal-Wallis | Target: ants | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.000001 | Result: Significant | Best Val: 100 (Med: 3855.65)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_Vinyl.bin | Coverage: 0.8 | p-value: 0.000323 | Result: Significant | Best Val: 50 (Med: 3814.55)
+Mann-Whitney | Target: update_strategy | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.771551 | Result: Not Significant | MedIB: 1676.21 | MedBSF: 1689.24 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 1648.19)
+Kruskal-Wallis | Target: beta | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 1676.21)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.169562 | Result: Not Significant | Best Val: 0.2 (Med: 1676.21)
+Kruskal-Wallis | Target: ants | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.004132 | Result: Significant | Best Val: 64 (Med: 1676.21)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_bnw.bin | Coverage: 0.2 | p-value: 0.295642 | Result: Not Significant | Best Val: 10 (Med: 1651.10)
+Mann-Whitney | Target: update_strategy | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.430648 | Result: Not Significant | MedIB: 4383.45 | MedBSF: 4349.84 | Best: best_so_far
+Kruskal-Wallis | Target: alpha | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 4314.19)
+Kruskal-Wallis | Target: beta | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 4383.45)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.088438 | Result: Not Significant | Best Val: 0.05 (Med: 4380.95)
+Kruskal-Wallis | Target: ants | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.000003 | Result: Significant | Best Val: 100 (Med: 4327.82)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.113119 | Result: Not Significant | Best Val: 50 (Med: 4314.24)
+Mann-Whitney | Target: update_strategy | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.533829 | Result: Not Significant | MedIB: 7524.70 | MedBSF: 7573.68 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 7408.56)
+Kruskal-Wallis | Target: beta | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 7524.70)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.000512 | Result: Significant | Best Val: 0.2 (Med: 7524.70)
+Kruskal-Wallis | Target: ants | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 100 (Med: 7509.56)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_bnw.bin | Coverage: 0.8 | p-value: 0.152277 | Result: Not Significant | Best Val: 50 (Med: 7457.95)
+Mann-Whitney | Target: update_strategy | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.038088 | Result: Significant | MedIB: 1380.22 | MedBSF: 1366.18 | Best: best_so_far
+Kruskal-Wallis | Target: alpha | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 1317.12)
+Kruskal-Wallis | Target: beta | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 7 (Med: 1373.25)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.442566 | Result: Not Significant | Best Val: 0.4 (Med: 1372.04)
+Kruskal-Wallis | Target: ants | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.005126 | Result: Significant | Best Val: 100 (Med: 1363.42)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_gradient.bin | Coverage: 0.2 | p-value: 0.000292 | Result: Significant | Best Val: 10 (Med: 1319.19)
+Mann-Whitney | Target: update_strategy | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.184410 | Result: Not Significant | MedIB: 3643.72 | MedBSF: 3697.50 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 3549.37)
+Kruskal-Wallis | Target: beta | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 3643.72)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.173831 | Result: Not Significant | Best Val: 0.2 (Med: 3643.72)
+Kruskal-Wallis | Target: ants | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.000013 | Result: Significant | Best Val: 100 (Med: 3629.34)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.017843 | Result: Significant | Best Val: 10 (Med: 3546.49)
+Mann-Whitney | Target: update_strategy | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.430648 | Result: Not Significant | MedIB: 6575.70 | MedBSF: 6531.48 | Best: best_so_far
+Kruskal-Wallis | Target: alpha | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 6365.98)
+Kruskal-Wallis | Target: beta | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 7 (Med: 6487.69)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.002405 | Result: Significant | Best Val: 0.1 (Med: 6485.15)
+Kruskal-Wallis | Target: ants | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.000726 | Result: Significant | Best Val: 100 (Med: 6503.56)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_gradient.bin | Coverage: 0.8 | p-value: 0.002563 | Result: Significant | Best Val: 10 (Med: 6386.06)
+Mann-Whitney | Target: update_strategy | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.933886 | Result: Not Significant | MedIB: 1886.65 | MedBSF: 1891.14 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 0.5 (Med: 1822.22)
+Kruskal-Wallis | Target: beta | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 1886.65)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.079942 | Result: Not Significant | Best Val: 0.05 (Med: 1871.31)
+Kruskal-Wallis | Target: ants | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.095168 | Result: Not Significant | Best Val: 64 (Med: 1886.65)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_zebra.bin | Coverage: 0.2 | p-value: 0.000034 | Result: Significant | Best Val: 10 (Med: 1836.41)
+Mann-Whitney | Target: update_strategy | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.618670 | Result: Not Significant | MedIB: 4957.69 | MedBSF: 4959.45 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 4808.68)
+Kruskal-Wallis | Target: beta | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant | Best Val: 6 (Med: 4957.69)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.135468 | Result: Not Significant | Best Val: 0.4 (Med: 4925.21)
+Kruskal-Wallis | Target: ants | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.006868 | Result: Significant | Best Val: 100 (Med: 4920.96)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.000148 | Result: Significant | Best Val: 10 (Med: 4812.28)
+Mann-Whitney | Target: update_strategy | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.031017 | Result: Significant | MedIB: 8284.63 | MedBSF: 8337.30 | Best: iteration_best
+Kruskal-Wallis | Target: alpha | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 1.0 (Med: 8080.25)
+Kruskal-Wallis | Target: beta | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 7 (Med: 8263.20)
+Kruskal-Wallis | Target: evaporation | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.000000 | Result: Significant | Best Val: 0.02 (Med: 8228.17)
+Kruskal-Wallis | Target: ants | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.000010 | Result: Significant | Best Val: 100 (Med: 8224.77)
+Kruskal-Wallis | Target: tau_gap | Dataset: gray_zebra.bin | Coverage: 0.8 | p-value: 0.000069 | Result: Significant | Best Val: 10 (Med: 8091.95)
+
+Dataset-wide significance summary (OFAT)
+Target: update_strategy | Coverage: 0.2 | Result: Significant for part of datasets | Significant datasets: gray_gradient.bin
+Target: update_strategy | Coverage: 0.5 | Result: Not significant for any dataset | Significant datasets: none
+Target: update_strategy | Coverage: 0.8 | Result: Significant for part of datasets | Significant datasets: gray_zebra.bin
+Target: update_strategy | Overall: Significant only for part of datasets | Significant datasets: gray_gradient.bin, gray_zebra.bin
+Target: alpha | Coverage: 0.2 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: alpha | Coverage: 0.5 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: alpha | Coverage: 0.8 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: alpha | Overall: Significant at least once for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: beta | Coverage: 0.2 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: beta | Coverage: 0.5 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: beta | Coverage: 0.8 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: beta | Overall: Significant at least once for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: evaporation | Coverage: 0.2 | Result: Not significant for any dataset | Significant datasets: none
+Target: evaporation | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_Vinyl.bin
+Target: evaporation | Coverage: 0.8 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: evaporation | Overall: Significant at least once for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: ants | Coverage: 0.2 | Result: Significant for part of datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin
+Target: ants | Coverage: 0.5 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: ants | Coverage: 0.8 | Result: Significant for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: ants | Overall: Significant at least once for all datasets | Significant datasets: gray_Vinyl.bin, gray_bnw.bin, gray_gradient.bin, gray_zebra.bin
+Target: tau_gap | Coverage: 0.2 | Result: Significant for part of datasets | Significant datasets: gray_Vinyl.bin, gray_gradient.bin, gray_zebra.bin
+Target: tau_gap | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_Vinyl.bin, gray_gradient.bin, gray_zebra.bin
+Target: tau_gap | Coverage: 0.8 | Result: Significant for part of datasets | Significant datasets: gray_Vinyl.bin, gray_gradient.bin, gray_zebra.bin
+Target: tau_gap | Overall: Significant only for part of datasets | Significant datasets: gray_Vinyl.bin, gray_gradient.bin, gray_zebra.bin
+
+============================================================
+Pairwise Interaction Analysis (Two-Way ANOVA)
+
+Detailed results (PAIRS)
+Two-Way ANOVA | Target: alpha_x_beta | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.514703 | Result: Not Significant
+Two-Way ANOVA | Target: alpha_x_beta | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.197359 | Result: Not Significant
+Two-Way ANOVA | Target: alpha_x_beta | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.023117 | Result: Significant
+Two-Way ANOVA | Target: alpha_x_beta | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.000000 | Result: Significant
+
+Dataset-wide interaction significance summary (PAIRS)
+Target: alpha_x_beta | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_gradient.bin, gray_zebra.bin
+Target: alpha_x_beta | Overall: Significant only for part of datasets | Significant datasets: gray_gradient.bin, gray_zebra.bin
+
+============================================================
+Optimization Significance Analysis (Opt vs Baseline)
+
+Detailed results (OPT)
+Mann-Whitney (Opt vs Base) | Target: use_2opt=true | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.329530 | Result: Not Significant | MedOpt: 2240.23 | MedBase: 2269.76 | Best: use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_or_opt=true | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.253964 | Result: Not Significant | MedOpt: 2239.11 | MedBase: 2269.76 | Best: use_or_opt=true
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 1.000000 | Result: Not Significant | MedOpt: 2269.76 | MedBase: 2269.76 | Best: equal
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true_use_2opt=true | Dataset: gray_Vinyl.bin | Coverage: 0.5 | p-value: 0.329530 | Result: Not Significant | MedOpt: 2240.23 | MedBase: 2269.76 | Best: use_node_exchange=true_use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_2opt=true | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.105739 | Result: Not Significant | MedOpt: 4306.12 | MedBase: 4377.09 | Best: use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_or_opt=true | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.025103 | Result: Significant | MedOpt: 4287.33 | MedBase: 4377.09 | Best: use_or_opt=true
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 1.000000 | Result: Not Significant | MedOpt: 4377.09 | MedBase: 4377.09 | Best: equal
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true_use_2opt=true | Dataset: gray_bnw.bin | Coverage: 0.5 | p-value: 0.105739 | Result: Not Significant | MedOpt: 4306.12 | MedBase: 4377.09 | Best: use_node_exchange=true_use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_2opt=true | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.177598 | Result: Not Significant | MedOpt: 3655.22 | MedBase: 3684.42 | Best: use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_or_opt=true | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.097091 | Result: Not Significant | MedOpt: 3648.27 | MedBase: 3684.42 | Best: use_or_opt=true
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 1.000000 | Result: Not Significant | MedOpt: 3684.42 | MedBase: 3684.42 | Best: equal
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true_use_2opt=true | Dataset: gray_gradient.bin | Coverage: 0.5 | p-value: 0.177598 | Result: Not Significant | MedOpt: 3655.22 | MedBase: 3684.42 | Best: use_node_exchange=true_use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_2opt=true | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.038088 | Result: Significant | MedOpt: 4861.29 | MedBase: 4977.09 | Best: use_2opt=true
+Mann-Whitney (Opt vs Base) | Target: use_or_opt=true | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.020191 | Result: Significant | MedOpt: 4865.57 | MedBase: 4977.09 | Best: use_or_opt=true
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 1.000000 | Result: Not Significant | MedOpt: 4977.09 | MedBase: 4977.09 | Best: equal
+Mann-Whitney (Opt vs Base) | Target: use_node_exchange=true_use_2opt=true | Dataset: gray_zebra.bin | Coverage: 0.5 | p-value: 0.034397 | Result: Significant | MedOpt: 4861.29 | MedBase: 4977.09 | Best: use_node_exchange=true_use_2opt=true
+
+Dataset-wide optimization significance summary (OPT)
+Target: use_2opt=true | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_zebra.bin
+Target: use_2opt=true | Overall: Significant only for part of datasets | Significant datasets: gray_zebra.bin
+Target: use_node_exchange=true | Coverage: 0.5 | Result: Not significant for any dataset | Significant datasets: none
+Target: use_node_exchange=true | Overall: Not significant for any dataset | Significant datasets: none
+Target: use_node_exchange=true_use_2opt=true | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_zebra.bin
+Target: use_node_exchange=true_use_2opt=true | Overall: Significant only for part of datasets | Significant datasets: gray_zebra.bin
+Target: use_or_opt=true | Coverage: 0.5 | Result: Significant for part of datasets | Significant datasets: gray_bnw.bin, gray_zebra.bin
+Target: use_or_opt=true | Overall: Significant only for part of datasets | Significant datasets: gray_bnw.bin, gray_zebra.bin

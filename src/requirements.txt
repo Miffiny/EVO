@@ -1,0 +1,7 @@
+numpy
+Pillow
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
